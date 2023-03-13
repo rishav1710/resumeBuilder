@@ -1,0 +1,22 @@
+.header{
+    padding:40px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: rgb(238,252,255);
+}
+
+.heading{
+font-size: 3.1rem;
+color:#000;
+line-height:4.1rem;
+font-weight:bold;
+letter-spacing: 1px;
+max-width: 450px;
+}
+
+.mainText{
+color:transparent;
+background-clip: text;
+background-image: linear-gradient(to right, #239ce2,#1369b9);
+}
